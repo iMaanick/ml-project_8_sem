@@ -1,8 +1,8 @@
 # all path are from ./src folder
-PURCHASE_CSV_PATH = "../data/raw/purchases.csv"
+PURCHASE_CSV_PATH = "../data/raw/purchases_10M.csv"
 CLIENT_CSV_PATH = "../data/raw/clients.csv"
 PRODUCT_CSV_PATH = "../data/raw/products.csv"
-JSONS_DIR = "../tmp/jsons/"
+JSONS_DIR = "../data/raw/jsons"
 
 # determed from check quieries
 BASE_SPLIT_POINT = "2019-03-02 10:05:00"
